@@ -1,4 +1,4 @@
-### Portfolio
+## Portfolio
 
 ## Sobre mí
 Tengo 19 años y me interesa mucho el sector IT. Estoy buscando un punto de partida donde continuar desarrollando mis habiliadades, y crecer tanto personal como profesionalmente, mientras continúo con mi formación académica.
