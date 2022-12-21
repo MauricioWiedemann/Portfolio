@@ -3,10 +3,10 @@
 ## Sobre mí
 Tengo 19 años y me interesa mucho el sector IT. Estoy buscando un punto de partida donde continuar desarrollando mis habiliadades, y crecer tanto personal como profesionalmente, mientras continúo con mi formación académica.
 * [LinkedIn](www.linkedin.com/in/mauricio-wiedemann-11711622b)
-* [CV](https://drive.google.com/file/d/1xhMQICRaKstUtzDPBATylHiI4tcBFdWx/view?usp=sharing)
+* [CV](https://drive.google.com/file/d/1PMJo5QB-88IdBmEZilqmTzQDQiBjqMln/view?usp=sharing)
 
 ## Cursos
-* Tester de Software - Jóvenes a Programar (230hs):
+* Tester de Software - Jóvenes a Programar (430hs):
   * Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * Educación media tecnológica en informática - UTU (3 Años):
   * Programación orientada a objetos C# y Java, base de datos SQL, configuración de servidores Linux, metodologías ágiles, documentación en proyectos de software
