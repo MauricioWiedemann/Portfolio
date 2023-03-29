@@ -13,7 +13,7 @@ Tengo 19 años y me interesa mucho el sector IT. Estoy buscando un punto de part
 * Software Testing and Automation - Coursera (64hs)
   * Teoría y técnicas de testing formales, black-box y white-box testing, testing automatizado y web & mobile testing.
 
-##Diplomas
+## Diplomas
 * [Jóvenes a Programar](https://drive.google.com/file/d/1d_CFfqkB7sMwPinu8fcbOmka-ynIwCAf/view?usp=sharing)
 * [Ingles](https://drive.google.com/file/d/1TTTR-F84qTCGWXkfo368G-uLlOtN3xbF/view?usp=sharing)
 * [Software Testing and Automation](https://drive.google.com/file/d/1-BbGF2RbBClw-ssXLXBiYAkHJRKJkWRz/view?usp=sharing)
