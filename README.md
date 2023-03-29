@@ -10,13 +10,24 @@ Tengo 19 años y me interesa mucho el sector IT. Estoy buscando un punto de part
   * Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
 * Educación media tecnológica en informática - UTU (3 Años):
   * Programación orientada a objetos C# y Java, base de datos SQL, configuración de servidores Linux, metodologías ágiles, documentación en proyectos de software
-  
+* Software Testing and Automation - Coursera (64hs)
+  * Teoría y técnicas de testing formales, black-box y white-box testing, testing automatizado y web & mobile testing.
+
+##Diplomas
+* [Jóvenes a Programar](https://drive.google.com/file/d/1d_CFfqkB7sMwPinu8fcbOmka-ynIwCAf/view?usp=sharing)
+* [Ingles](https://drive.google.com/file/d/1TTTR-F84qTCGWXkfo368G-uLlOtN3xbF/view?usp=sharing)
+* [Software Testing and Automation](https://drive.google.com/file/d/1-BbGF2RbBClw-ssXLXBiYAkHJRKJkWRz/view?usp=sharing)
+
 ## Herramientas
 * Testing
   * Testlink
   * Jira
   * MantisBT
   * KiwiTCMS
+  * JUnit
+  * Mockito
+  * JaCoCo
+  * Cucumber
 * Base de datos
   * MySQL
   * Microsoft SQL Server Management Studio 18
